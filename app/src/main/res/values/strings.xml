@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Too Late!</string>
+    <string name="play">PLAY!</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share!</string>
+    <string name="zero">0</string>
+    <string name="title_activity_bet">BetActivity</string>
+    <string name="title_activity_round">RoundActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="green_won_bet">Green team prepare!</string>
+    <string name="red_won_bet">Red team prepare!</string>
 </resources>
