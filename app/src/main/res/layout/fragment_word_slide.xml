@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.toolate.WordSlideFragment"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.toolate.WordSlideFragment">
+
+    <TextView
+        android:id="@+id/word"
+        style="@style/word_font"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/square_red"
+        android:gravity="center_vertical|center_horizontal" />
+</FrameLayout>
+</RelativeLayout>

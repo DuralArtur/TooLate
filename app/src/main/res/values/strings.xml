@@ -13,4 +13,7 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="green_won_bet">Green team prepare!</string>
     <string name="red_won_bet">Red team prepare!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
